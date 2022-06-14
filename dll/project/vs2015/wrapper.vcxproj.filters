@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClInclude Include="..\..\..\dinput_tweaks\source\ConfigFile.h">
+      <Filter>dinput_tweaks</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\source\dinput.h">
+      <Filter>source</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\source\wrapper.h">
+      <Filter>source</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="..\..\source\dinput.def">
+      <Filter>source</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\..\dinput_tweaks\source\ConfigFile.cpp">
+      <Filter>dinput_tweaks</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\source\wrapper.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="dinput_tweaks">
+      <UniqueIdentifier>{aad7649b-7aad-4961-bfce-10dbe0e3dc3b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="source">
+      <UniqueIdentifier>{35cc3984-9fde-4298-9421-831e8b04eda6}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

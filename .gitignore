@@ -1,0 +1,8 @@
+.vs/
+Debug/
+Release/
+
+*.pdb
+*.idb
+*.aps
+*.user

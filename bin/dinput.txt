@@ -1,0 +1,22 @@
+
+----------------------------------------------
+DirectInput Tweaks (c) 2015 by David Walters
+----------------------------------------------
+
+Setup.
+
+1. Extract files into game folder.
+
+2. Run 'dinput_tweaks.exe' and select options.
+
+3. Run game and it will receive tweaked inputs from all joysticks.
+
+
+Options.
+
+"Remap joystick SLIDER0 axis as Z axis". Use this when throttle inputs are not working.
+
+"Invert Axis". Reports an inverted value to the game.
+
+
+End.
